@@ -1,3 +1,6 @@
 [submodule "landing-page"]
 	path = landing-page
 	url = https://github.com/raissaellen/landing-page
+[submodule "404-error"]
+	path = 404-error
+	url = https://github.com/raissaellen/404-error
